@@ -1,0 +1,27 @@
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('https://thewallpaper.co//wp-content/uploads/2016/03preview/elegant-grey-illumination-backgroundpresentationspowerpoint-backgrounds-high-resolution-images-free-stock-photos-desktop-images-iphone-wallpaper-colorful-widescreen-hd-artwork-1920x1080.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.return {
+  font-size:10px;
+  text-decoration:none;
+}
+h1 {
+  font-size:60px;
+  color:white;
+  text-align:center;
+}
+.lead {
+  color:white;
+  text-align:center;
+}
+.container2 {
+  background-image:url('https://www.decorsupplies.co.uk/media/catalog/product/cache/1/thumbnail/1000x/17f82f742ffe127f42dca9de82fb58b1/3/0/30fb97f30c336011e6036d50fd39e361.jpg');
+}
+section span {
+  background-color:white;
+}
