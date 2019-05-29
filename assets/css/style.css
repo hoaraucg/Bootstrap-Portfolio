@@ -1,3 +1,6 @@
+* {
+  box-sizing:border-box;
+}
 .masthead {
   height: 100vh;
   min-height: 500px;
@@ -21,7 +24,20 @@ h1 {
 }
 .container2 {
   background-image:url('https://www.decorsupplies.co.uk/media/catalog/product/cache/1/thumbnail/1000x/17f82f742ffe127f42dca9de82fb58b1/3/0/30fb97f30c336011e6036d50fd39e361.jpg');
+  background-size:auto;
+  background-position:center;
+  background-repeat:repeat;
 }
-section span {
+.py-5{
   background-color:white;
+}
+.col-8 {
+  background-color:white;
+}
+.card-img-top{
+  overflow:auto;
+}
+.navbar-brand {
+  height:60px;
+  width:60px;
 }
